@@ -1,41 +1,40 @@
-## DEPRECATED
-Please move to [this](https://github.com/NickTheHuy/CockPY) for future updates.
-
+## 已弃用
+请移至 [这里]（https://github.com/NickTheHuy/CockPY） 以获取未来的更新。
 
 # saturnine
 
 
-a minimal cbt2 ps
+一个最小 CBT2 服务器
 
 # Installation
-0. (Optional but recommended) Create a virtual environment
+0. （可选但推荐）创建虚拟环境
     ```
     python -m venv venv
     venv\Scripts\activate.bat or venv\Scripts\activate.ps1 for PowerShell (Windows)
     source venv/bin/activate (Linux)
     ```
-1. Install dependencies
+1. 安装依赖项
 ```pip install -r ./requirements.txt```
 
 2. Install enet
 
-    Clone the repo recursively and move to that directory
+递归克隆存储库并移动到该目录
   
-    ```git clone https://github.com/lilmayofuksu/pyenet --recursive && cd pyenet```
+'''git clone https://github.com/lilmayofuksu/pyenet --recursive & cd pyenet'''
   
-    Compile the ENet Cython module
+编译 ENet Cython 模块
   
-    ```python setup.py build```
+'''python setup.py build'''
   
-    Install the new pyenet module
+安装新的 pyenet 模块
   
-    ```python setup.py install```
+'''python setup.py install'''
 
-# Running
-```py -m saturnine``` would do the trick
+# 运行
+'''py -m saturnine''' 就可以了
 
 # Troubleshooting
- 1. Client doesn't run? Replace mhyprot with this [mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)
+ 1. 客户端不运行？将 mhyprot2 替换为 this [mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)(链接没了)
  2. If after logging in and clicking Tap to begin an next error occurs: `<uid:1-time:1671269113657[0,0,0]>FormatException: Unknown char: . `, just select English as the system language and try again.
 
 # Redirecting
