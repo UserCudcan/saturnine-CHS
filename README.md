@@ -2,7 +2,7 @@
 请移至 [这里](https://github.com/NickTheHuy/CockPY) 以获取未来的更新。
 
 # saturnine
-
+[简中](README.md) | [EN](README-ENG.md)
 
 一个最小 CBT2 服务器
 
