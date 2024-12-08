@@ -28,7 +28,7 @@
   
    安装新的 pyenet 模块
   
-    ```python setup.py install```
+  ```python setup.py install```
 
 # 运行
     ```py -m saturnine``` 就可以了
