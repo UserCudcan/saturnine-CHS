@@ -1,5 +1,5 @@
 ## 已弃用
-请移至 [这里]（https://github.com/NickTheHuy/CockPY/ 以获取未来的更新。
+请移至 [this](https://github.com/NickTheHuy/CockPY) 以获取未来的更新。
 
 # saturnine
 
