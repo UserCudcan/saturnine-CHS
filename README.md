@@ -66,3 +66,5 @@ class Handlers
 };
 ```
  
+## 感谢timing1337
+ 他让我们可以登录CBT2,也可以游玩角色
