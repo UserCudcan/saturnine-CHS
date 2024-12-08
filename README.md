@@ -31,7 +31,7 @@
   ```python setup.py install```
 
 # 运行
-    ```py -m saturnine``` 就可以了
+    py -m saturnine 就可以了
 
 # 故障
  1. 客户端不运行？将 mhyprot2 替换成[mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)(链接没了)
