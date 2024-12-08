@@ -3,7 +3,7 @@ Please move to [this](https://github.com/NickTheHuy/CockPY) for future updates.
 
 
 # saturnine
-
+[简中](README.md) | [EN](README-ENG.md)
 
 a minimal cbt2 ps
 
