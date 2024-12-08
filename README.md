@@ -18,20 +18,20 @@
 
 2. 下载enet
 
-递归克隆存储库并移动到该目录
+  递归克隆存储库并移动到该目录
   
-```git clone https://github.com/lilmayofuksu/pyenet --recursive & cd pyenet```
+   ```git clone https://github.com/lilmayofuksu/pyenet --recursive & cd pyenet```
   
-编译 ENet Cython 模块
+   编译 ENet Cython 模块
   
-```python setup.py build```
+   ```python setup.py build```
   
-安装新的 pyenet 模块
+   安装新的 pyenet 模块
   
-```python setup.py install```
+    ```python setup.py install```
 
 # 运行
-```py -m saturnine``` 就可以了
+    ```py -m saturnine``` 就可以了
 
 # 故障
  1. 客户端不运行？将 mhyprot2 替换成[mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)(链接没了)
