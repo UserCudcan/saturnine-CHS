@@ -6,7 +6,7 @@
 
 一个最小 CBT2 服务器
 
-# Installation
+# 安装
 0. （可选但推荐）创建虚拟环境
     ```
     python -m venv venv
@@ -68,7 +68,7 @@ class Handlers
  
 ## 感谢
 [timing1337](https://github.com/timing1337)
-[DiXiaoO](https://github.com/DiXiaoO))
+[DiXiaoO](https://github.com/DiXiaoO)
 [lilmayofuksu](https://github.com/lilmayofuksu)
 [wiors](https://github.com/wiors)
 [LDAsuku](https://github.con/LDAsuku)
