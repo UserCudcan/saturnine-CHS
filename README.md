@@ -66,5 +66,15 @@ class Handlers
 };
 ```
  
-## 感谢timing1337
- 他让我们可以登录CBT2,也可以游玩角色
+## 感谢
+[timing1337](https://github.com/timing1337)
+[DiXiaoO](https://github.com/DiXiaoO))
+[lilmayofuksu](https://github.com/lilmayofuksu)
+[wiors](https://github.com/wiors)
+[LDAsuku](https://github.con/LDAsuku)
+[busya1337](https://github.com/busya1337)
+
+
+
+
+
