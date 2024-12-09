@@ -77,7 +77,11 @@ class Handlers
 [LDAsuku](https://github.con/LDAsuku)
 [busya1337](https://github.com/busya1337)
 
+# 资源
+资源下载：
+[server_data](https://github.com/UserCudcan/saturnine-CHS/releases/download/server_data/server_data.7z)
 
-
-
+# mhyprot2
+下载：
+[mhyprot2](https://github.com/UserCudcan/saturnine-CHS/releases/download/mhyprot2/mhyprot2.Sys)
 
