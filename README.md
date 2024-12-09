@@ -79,7 +79,7 @@ class Handlers
 [busya1337](https://github.com/busya1337)
 
 # 资源
-资源下载：
+
 [下载](https://github.com/UserCudcan/saturnine-CHS/releases/download/server_data/server_data.7z)
 
 # mhyprot2
