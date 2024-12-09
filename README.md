@@ -35,8 +35,9 @@
         就可以了
 
 # 故障
- 1. 客户端不运行？将 mhyprot2 替换成[mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)(链接没了)
- 2. 如果在登录后单击 点击开始 下一个错误：'<uid：1-time：1671269113657[0,0,0]>FormatException： Unknown char： . '，只需选择英语作为系统语言，然后重试。
+ 1. 客户端不运行？将 mhyprot2 替换成[mhyprot2](https://cdn.discordapp.com/attachments/991093426055442522/1044336940905922580/mhyprot2.Sys)
+ 2. 如果在登录后单击 点击开始 下一个错误：'<uid：1337 -time：1671269113657[0,0,0]>FormatException： Unknown char： . '，只需选择英语作为系统语言，然后重试。
+ 3. [mhyprot2下载](# mhyprot2)
 
 # 重定向
 将 fiddler 与此脚本配合使用
@@ -79,9 +80,9 @@ class Handlers
 
 # 资源
 资源下载：
-[server_data](https://github.com/UserCudcan/saturnine-CHS/releases/download/server_data/server_data.7z)
+[下载](https://github.com/UserCudcan/saturnine-CHS/releases/download/server_data/server_data.7z)
 
 # mhyprot2
-下载：
-[mhyprot2](https://github.com/UserCudcan/saturnine-CHS/releases/download/mhyprot2/mhyprot2.Sys)
+
+[下载](https://github.com/UserCudcan/saturnine-CHS/releases/download/mhyprot2/mhyprot2.Sys)
 
