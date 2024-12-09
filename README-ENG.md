@@ -67,3 +67,20 @@ class Handlers
 };
 ```
  
+## Thanks
+
+# saturnine author
+[timing1337](https://github.com/timing1337)
+[DiXiaoO](https://github.com/DiXiaoO)
+[lilmayofuksu](https://github.com/lilmayofuksu)
+[wiors](https://github.com/wiors)
+[LDAsuku](https://github.con/LDAsuku)
+[busya1337](https://github.com/busya1337)
+
+# Res
+
+[Download](https://github.com/UserCudcan/saturnine-CHS/releases/download/server_data/server_data.7z)
+
+# mhyprot2
+
+[Download](https://github.com/UserCudcan/saturnine-CHS/releases/download/mhyprot2/mhyprot2.Sys)
